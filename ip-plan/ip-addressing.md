@@ -1,12 +1,11 @@
 \# 🌐 Network Addressing Plan
 
 
-
-Este documento describe la configuración de red actual del laboratorio.
-
+This document describes the current network configuration of the laboratory.
 
 
-\## 🏁 Segmentación de Red
+
+\## 🏁 Network Segmentation
 
 
 
@@ -40,5 +39,5 @@ Este documento describe la configuración de red actual del laboratorio.
 
 ---
 
-\*Documentación generada para el Laboratorio pfSense Enterprise.\*
+*Documentation generated for the pfSense Enterprise Lab.*
 
